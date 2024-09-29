@@ -18,18 +18,13 @@ Git
 https://github.com/Adan-jr/CODE
 ```
 
-# Live Link
-[Git](gh-pages link)
-
 ## Technologies used
-HTML
-CSS
 Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+https://github.com/Adan-jr/CODE
 
 ### License
 The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+Copyright (c) 2024.
